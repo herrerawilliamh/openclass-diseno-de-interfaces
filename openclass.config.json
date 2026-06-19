@@ -1,0 +1,84 @@
+{
+  "course": {
+    "shortName": "disenointerfaces",
+    "fullName": "Diseño de Interfaces",
+    "year": "2026",
+    "description": "Curso que brinda las herramientas necesarias para crear experiencias de usuario efectivas y atractivas en el mundo digital.",
+    "openClassLabel": "Open Class"
+  },
+  "generation": {
+    "weeksTotal": 8,
+    "activeWeeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "exportPortal": false,
+    "overwriteLaunchers": true,
+    "overwritePortal": true,
+    "overwriteDecks": true,
+    "overwritePackageScripts": true,
+    "overwriteWeekContent": false
+  },
+  "weeks": [
+    {
+      "number": 1,
+      "title": "Título semana 1",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 2,
+      "title": "Título semana 2",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 3,
+      "title": "Título semana 3",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 4,
+      "title": "Título semana 4",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 5,
+      "title": "Título semana 5",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 6,
+      "title": "Título semana 6",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 7,
+      "title": "Título semana 7",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    },
+    {
+      "number": 8,
+      "title": "Título semana 8",
+      "date": "2026",
+      "centralTheme": "Tema central de la semana",
+      "activity": "Actividad o evaluación relacionada"
+    }
+  ]
+}
