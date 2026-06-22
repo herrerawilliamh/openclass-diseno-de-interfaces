@@ -1,6 +1,6 @@
 ---
 theme: ./theme/uniminuto
-title: Diseño de Interfaces — Semana 1 — Título semana 1
+title: Diseño de Interfaces — Semana 1 — Interfaces gráficas de usuario
 favicon: /favicon.png
 codeCopy: true
 transition: fade

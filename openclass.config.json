@@ -3,82 +3,84 @@
     "shortName": "disenointerfaces",
     "fullName": "Diseño de Interfaces",
     "year": "2026",
-    "description": "Curso que brinda las herramientas necesarias para crear experiencias de usuario efectivas y atractivas en el mundo digital.",
+    "description": "Curso orientado al análisis, diseño e implementación de interfaces gráficas de usuario, programación orientada a eventos, paradigmas de diseño, experiencia de usuario, usabilidad, accesibilidad, estructura de aplicaciones y verificación de la interacción.",
     "openClassLabel": "Open Class"
   },
   "generation": {
     "weeksTotal": 8,
-    "activeWeeks": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "exportPortal": false,
+    "activeWeeks": [1, 2, 3, 4, 5, 6, 7],
     "overwriteLaunchers": true,
     "overwritePortal": true,
     "overwriteDecks": true,
     "overwritePackageScripts": true,
-    "overwriteWeekContent": false
+    "overwriteWeekContent": false,
+    "exportPortal": false
   },
   "weeks": [
     {
       "number": 1,
-      "title": "Título semana 1",
+      "title": "Interfaces gráficas de usuario",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Concepto de interfaz gráfica de usuario, componentes visuales, interacción persona-computador y propósito de las interfaces.",
+      "activity": "Análisis de interfaces cotidianas y reconocimiento de sus componentes principales.",
+      "duration": "90 minutos"
     },
     {
       "number": 2,
-      "title": "Título semana 2",
+      "title": "Programación orientada al evento",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Eventos, acciones del usuario, respuestas del sistema, controladores y lógica de interacción en interfaces gráficas.",
+      "activity": "Identificación del flujo evento-respuesta en una interfaz de aplicación.",
+      "duration": "90 minutos"
     },
     {
       "number": 3,
-      "title": "Título semana 3",
+      "title": "Lenguajes de programación en el diseño de interfaces",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Lenguajes, bibliotecas y herramientas utilizadas en la construcción de interfaces gráficas de usuario.",
+      "activity": "Comparación de alternativas tecnológicas para implementar interfaces.",
+      "duration": "90 minutos"
     },
     {
       "number": 4,
-      "title": "Título semana 4",
+      "title": "Planteamiento y diseño de la interfaz",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Determinación de requerimientos, objetivos de interacción, estructura visual, navegación y organización de componentes.",
+      "activity": "Diseño conceptual de una interfaz a partir de necesidades de usuario.",
+      "duration": "90 minutos"
     },
     {
       "number": 5,
-      "title": "Título semana 5",
+      "title": "Experiencia basada en el usuario",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Experiencia de usuario, empatía, carga cognitiva, diseño centrado en el usuario y retroalimentación visual.",
+      "activity": "Análisis de un caso de interfaz desde criterios de experiencia de usuario.",
+      "duration": "90 minutos"
     },
     {
       "number": 6,
-      "title": "Título semana 6",
+      "title": "Usabilidad y accesibilidad en interfaces",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Principios de usabilidad, accesibilidad digital, navegación, prevención de errores y criterios de calidad de interacción.",
+      "activity": "Evaluación guiada de una interfaz desde criterios de usabilidad y accesibilidad.",
+      "duration": "90 minutos"
     },
     {
       "number": 7,
-      "title": "Título semana 7",
-      "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "title": "Estructura de una aplicación e implementación GUI",
+      "date": "Junio 19 de 2026",
+      "centralTheme": "Estructura de aplicaciones con interfaz gráfica, formularios, componentes, validaciones, eventos e implementación con Java Swing.",
+      "activity": "Práctica de implementación o análisis de una interfaz gráfica académica.",
+      "duration": "90 minutos"
     },
     {
       "number": 8,
-      "title": "Título semana 8",
+      "title": "Análisis y verificación de la usabilidad",
       "date": "2026",
-      "centralTheme": "Tema central de la semana",
-      "activity": "Actividad o evaluación relacionada"
+      "centralTheme": "Verificación de usabilidad, evaluación de interfaces, pruebas con usuarios, criterios de mejora y cierre del curso.",
+      "activity": "Actividad de cierre sobre evaluación y mejora de interfaces.",
+      "duration": "90 minutos",
+      "status": "draft"
     }
   ]
 }

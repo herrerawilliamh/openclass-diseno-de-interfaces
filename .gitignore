@@ -1,1 +1,9 @@
 node_modules
+
+# Archivos generados por exportación Slidev
+public/descargas/*.pdf
+public/descargas/*.pptx
+!public/descargas/.gitkeep
+
+# Reportes locales de auditoría
+audit-report.json

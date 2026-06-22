@@ -1,6 +1,6 @@
 ---
 theme: ./theme/uniminuto
-title: Diseño de Interfaces — Semana 4 — Título semana 4
+title: Diseño de Interfaces — Semana 4 — Planteamiento y diseño de la interfaz
 favicon: /favicon.png
 codeCopy: true
 transition: fade

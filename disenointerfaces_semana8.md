@@ -1,6 +1,6 @@
 ---
 theme: ./theme/uniminuto
-title: Diseño de Interfaces — Semana 8 — Título semana 8
+title: Diseño de Interfaces — Semana 8 — Análisis y verificación de la usabilidad
 favicon: /favicon.png
 codeCopy: true
 transition: fade

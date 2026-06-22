@@ -1,6 +1,6 @@
 ---
 theme: ./theme/uniminuto
-title: Diseño de Interfaces — Semana 3 — Título semana 3
+title: Diseño de Interfaces — Semana 3 — Lenguajes de programación en el diseño de interfaces
 favicon: /favicon.png
 codeCopy: true
 transition: fade

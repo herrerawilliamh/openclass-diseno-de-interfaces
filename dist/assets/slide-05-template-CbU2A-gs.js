@@ -1,0 +1,1 @@
+var e=`/fondos/slide-05-template.png`;export{e as t};

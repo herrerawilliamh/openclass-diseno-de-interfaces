@@ -1,6 +1,6 @@
 ---
 theme: ./theme/uniminuto
-title: Diseño de Interfaces — Semana 7 — Título semana 7
+title: Diseño de Interfaces — Semana 7 — Estructura de una aplicación e implementación GUI
 favicon: /favicon.png
 codeCopy: true
 transition: fade
