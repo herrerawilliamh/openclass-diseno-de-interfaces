@@ -1,1 +1,0 @@
-function e(e=``){if(!e||/^(https?:|data:|blob:|#)/.test(e))return e;let t=`/disenointerfaces-uniminuto/semanas/disenointerfaces_semana1/`;return`${t.endsWith(`/`)?t:`${t}/`}${e.startsWith(`/`)?e.slice(1):e.replace(/^\.\//,``)}`}export{e as t};

@@ -176,3 +176,4 @@ Notas del presentador:
 Cerrar con una síntesis de tres ideas centrales, recordar el compromiso académico de la semana e invitar a diligenciar la Encuesta de Percepción Estudiantil cuando aplique.
 -->
 
+

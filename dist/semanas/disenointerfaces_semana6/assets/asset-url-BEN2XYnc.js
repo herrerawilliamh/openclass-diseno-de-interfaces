@@ -1,0 +1,1 @@
+function e(e=``){if(!e||/^(https?:|data:|blob:|#)/.test(e))return e;let t=`/openclass-diseno-de-interfaces/semanas/disenointerfaces_semana6/`;return`${t.endsWith(`/`)?t:`${t}/`}${e.startsWith(`/`)?e.slice(1):e.replace(/^\.\//,``)}`}export{e as t};
