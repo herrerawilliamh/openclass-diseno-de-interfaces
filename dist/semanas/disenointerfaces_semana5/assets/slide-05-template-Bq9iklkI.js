@@ -1,1 +1,0 @@
-var e=`/semanas/disenointerfaces_semana5/fondos/slide-05-template.png`;export{e as t};
