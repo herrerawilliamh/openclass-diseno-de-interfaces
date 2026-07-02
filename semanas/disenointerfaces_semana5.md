@@ -1000,3 +1000,4 @@ Mencionar que la práctica de Java Swing puede servir como punto de partida para
 Finalizar con un mensaje institucional: revisar fechas, cumplir actividades, participar respetuosamente en el foro y diligenciar la Encuesta de Percepción Estudiantil cuando esté disponible. Despedirse cordialmente y dejar abierta la invitación a consultar dudas por los canales definidos del curso.
 -->
 
+

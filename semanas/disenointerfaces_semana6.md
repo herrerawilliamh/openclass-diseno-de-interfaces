@@ -1106,3 +1106,4 @@ Notas del presentador:
 Cerrar agradeciendo la asistencia y participación. Reforzar que los conceptos trabajados serán útiles tanto para responder la evaluación como para diseñar mejores aplicaciones en proyectos académicos y profesionales. Invitar a los estudiantes a conservar el código de la práctica como base para futuras mejoras. Finalizar con una frase breve sobre la responsabilidad del diseñador y desarrollador frente a la experiencia del usuario.
 -->
 
+
